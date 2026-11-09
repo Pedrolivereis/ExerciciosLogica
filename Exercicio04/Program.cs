@@ -1,0 +1,13 @@
+﻿Console.WriteLine("Digite o primerio numero:");
+int num1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite o segundo numero:");
+int num2 = int.Parse(Console.ReadLine());
+Console.WriteLine("====OPERADORES ARITIMETICOS====");
+Console.WriteLine("ADIÇÃO");
+Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
+Console.WriteLine("SUBTRAÇÃO");
+Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
+Console.WriteLine("MULTIPLICAÇÃO");
+Console.WriteLine($"{num1} X {num2} = {num1 * num2}");
+Console.WriteLine("DIVISÃO");
+Console.WriteLine($"{num1} / {num2} = {num1 / num2}");

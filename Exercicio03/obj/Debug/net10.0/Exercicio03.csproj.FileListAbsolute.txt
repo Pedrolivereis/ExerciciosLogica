@@ -1,0 +1,15 @@
+C:\Users\PedroReis\source\repos\Exercicio03\bin\Debug\net10.0\Exercicio03.exe
+C:\Users\PedroReis\source\repos\Exercicio03\bin\Debug\net10.0\Exercicio03.deps.json
+C:\Users\PedroReis\source\repos\Exercicio03\bin\Debug\net10.0\Exercicio03.runtimeconfig.json
+C:\Users\PedroReis\source\repos\Exercicio03\bin\Debug\net10.0\Exercicio03.dll
+C:\Users\PedroReis\source\repos\Exercicio03\bin\Debug\net10.0\Exercicio03.pdb
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.AssemblyInfo.cs
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.dll
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\refint\Exercicio03.dll
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.pdb
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercicio03.genruntimeconfig.cache
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\ref\Exercicio03.dll
+C:\Users\PedroReis\source\repos\Exercicio03\obj\Debug\net10.0\Exercici.D37958E3.Up2Date
